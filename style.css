@@ -100,6 +100,7 @@ body {
     font-weight: 500;
     font-size: 24px;
     margin-top: 30px;
+    text-transform: capitalize;
 }
 
 .current-temperature__info-label {
@@ -146,6 +147,7 @@ body {
 
 .temperature-details__label {
     color: #a2a2be;
+    text-align: center;
 }
 
 .temperature-details__value, 
